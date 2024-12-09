@@ -23,8 +23,8 @@ const intl = createIntl(
 );
 
 const applyConfig = (config) => {
-  config.blocks.blocksConfig.hero = {
-    id: 'hero',
+  config.blocks.blocksConfig.hero_eea = {
+    id: 'her_eea',
     title: 'Hero',
     icon: codeSVG,
     group: 'common',
